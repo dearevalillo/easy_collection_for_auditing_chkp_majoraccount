@@ -1,16 +1,21 @@
 EASY_COLLECTION_FOR_AUDITING_CHKP_MAJORACCOUNT
 =========
-bash script to collect all the information from the machine to generate a report for auditing.
+bash script to collect all the information from the machine to generate a report for auditing.<br />
 
-This project has been developed to help the customer to obtain a complete audit of his equipment in an easy and simple way. 
+This project has been developed to help the customer to obtain a complete audit of his equipment in an easy and simple way. <br />
 
-This bash script, developed in bash, collects information such as:
-CPinfo. If it is an environment with VSX, it allows to select the specific vsx.
-HCP
-SpikeDetective
-Performance files
-CPview database
-It then compresses all the information and allows to upload it to the sftp created by the Check Point engineer.
+This bash script, developed in bash, collects information such as:<br />
+**CPinfo**.  If it is an environment with VSX, it allows to select the specific vsx.<br />
+
+**HCP**<br />
+
+**SpikeDetective**<br />
+
+**Performance files**<br />
+
+**CPview database**<br />
+
+It then compresses all the information and allows to upload it to the sftp created by the Check Point engineer.<br />
 
 Requirements
 ------------
