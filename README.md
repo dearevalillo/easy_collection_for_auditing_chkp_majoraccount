@@ -15,6 +15,15 @@ This bash script, developed in bash, collects information such as:<br />
 
 **CPview database**<br />
 
+**CPLogInvestigator**<br />
+
+**DoctorLog**<br />
+
+**CPMdoctor**<br />
+
+**MaestroFiles**<br />
+
+
 It then compresses all the information and allows to upload it to the sftp created by the Check Point engineer.<br />
 
 Requirements
